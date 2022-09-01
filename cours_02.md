@@ -2,9 +2,7 @@
 ## Présentation des liens
 Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
+
 
 ### [Injustice 1 et 2](https://www.injustice.com/fr)
 je trouve que la franchise de jeu Injustice est excellante, car elle englobe une grande partie du monde de DC comics avec les personnages de Batman et de Superman.De plus, j'adore les jeux de combats ainsi que le mode histoire, car celle-ci nous met en contexte un Superman qui est devenu le méchant.
