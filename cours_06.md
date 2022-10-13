@@ -6,12 +6,17 @@ eidos
 sid lee
 pix mob
 ## question
-#1
+#1 eidos
+combien de temps cela prends pour faire de la motion capture?
 ## question
-#2
+#2 eidos
+combien de temps ça prends pour se faire approuver son jeu.
 ## question
-#3
+#3 sid lee
+Comment se déroule le procésus de recrutement?
 ## question
-#4
+#4pix mob
+Comment on peut coordonné une si grande quantitée de bracelets durant un show?
 ## question
 #5
+Quelle est le temps de préparation pour organiser un show avec une immense quantitée de spectateur. 
